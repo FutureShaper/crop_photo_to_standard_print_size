@@ -26,10 +26,10 @@ This simple desktop application allows you to manually crop your photos with the
 ## Installation
 
 1.  **Clone or download the repository.**
-2.  **Install the required Python library, Pillow:**
-    Open your terminal and run the following command:
+2.  **Install the required Python libraries:**
+    Open your terminal, navigate to the project directory, and run the following command:
     ```bash
-    pip install Pillow
+    pip install -r requirements.txt
     ```
 
 ## How to Use
